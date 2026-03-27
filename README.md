@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Vanier
 
-Technical support professional with Tier 2 experience transitioning into IT. Currently studying Security+ and developing skills in networking, systems, and security fundamentals.
-Currently studying CompTIA Security+ (SY0-701)  
+Technical support professional with Tier 2 experience transitioning into IT. Currently studying Security+ and developing skills in networking, systems, and security fundamentals.  
 📍 Based in Florida  
 
 ---
