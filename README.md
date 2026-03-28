@@ -1,6 +1,6 @@
 # Hi, I’m Vanier
-
-Aspiring IT professional transitioning into tech with hands-on experience in systems, networking, and automation. Currently building real-world projects, developing foundational technical skills, and studying to pass the CompTIA Security+ (SY0-701).
+ 
+Aspiring IT professional transitioning into tech with hands-on experience in systems, networking, automation, and building real-world projects. Currently developing foundational technical skills and studying for the CompTIA Security+ (SY0-701).
 
 
 Location: Florida
