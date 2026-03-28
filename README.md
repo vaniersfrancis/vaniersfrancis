@@ -1,30 +1,46 @@
-# 👋 Hi, I’m Vanier
+# Hi, I’m Vanier
 
-Technical support professional with Tier 2 experience transitioning into IT. Currently studying Security+ and developing skills in networking, systems, and security fundamentals.  
-📍 Based in Florida  
+Aspiring IT professional transitioning into tech with hands-on experience in systems, networking, and automation. Currently building real-world projects, developing foundational technical skills, and studying to pass the CompTIA Security+ (SY0-701).
 
----
 
-##  Current Focus
-- CompTIA Security+ (SY0-701)
-- Networking fundamentals
-- Core IT and system concepts
-- Building hands-on experience (labs, projects)
-
+Location: Florida
 
 ---
 
-##  Learning & Projects
--  [Security+ Notes](https://github.com/vaniersfrancis/security-plus-notes)
+## Current Focus
+
+* Core IT and networking fundamentals
+* System and security concepts
+* Studying for CompTIA Security+ (SY0-701)
+* Hands-on labs and real-world projects
+* Exploring different areas within tech
 
 ---
 
-##  Goals
-- Transition into IT / Security role  
-- Build hands-on experience (TryHackMe, homelab)  
-- Move into SOC / Cloud roles long-term  
+## Projects and Learning
+
+* Security+ Notes: https://github.com/vaniersfrancis/security-plus-notes
+* PulseChain Trading Bot (Node.js, ethers, Telegram API)
+
+  * Built a Telegram-based trading bot for executing on-chain transactions
+  * Implemented buy/sell logic, fee presets, and RPC handling
 
 ---
+
+## Technical Skills
+
+* JavaScript (Node.js)
+* APIs and JSON
+* Git and GitHub
+* Networking and system fundamentals
+
+---
+
+## Goals
+
+- Secure a technical role where I can apply and expand my skills  
+- Continue building real-world experience through projects and labs  
+- Progress into more advanced roles in IT, cloud, or security  
 
 
 
