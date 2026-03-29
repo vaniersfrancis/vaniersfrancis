@@ -20,7 +20,7 @@ Location: Florida
 ## Projects and Learning
 
 * Security+ Notes: https://github.com/vaniersfrancis/security-plus-notes
-* PulseChain Trading Bot (Node.js, ethers, Telegram API)
+* Telegram Trading Bot (Node.js, ethers, Telegram API)
 
   * Built a Telegram-based trading bot for executing on-chain transactions
   * Implemented buy/sell logic, fee presets, and RPC handling
