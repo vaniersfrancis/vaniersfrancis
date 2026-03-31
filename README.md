@@ -1,7 +1,10 @@
-# Hi, I’m Vanier
- 
-Aspiring IT professional transitioning into tech with hands-on experience in systems, networking, automation, and building real-world projects. Currently developing foundational technical skills and studying for the CompTIA Security+ (SY0-701).
+Hi, I’m Vanier
 
+IT Support Specialist with Tier 2 experience, focused on systems, networking, and real-world problem solving.
+
+I’ve built hands-on projects including a trading automation bot using Node.js and APIs, and I’m currently developing a homelab to strengthen my skills in system configuration, networking, and troubleshooting.
+
+Currently working toward CompTIA Security+ (SY0-701) while continuing to build practical experience in backend systems and infrastructure.
 
 Location: Florida
 
