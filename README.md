@@ -19,6 +19,7 @@ Location: Florida
 
 ## Projects and Learning
 
+* Currently, I am building a personal homelab environment to gain hands-on experience with systems, networking, and security concepts. This includes working with virtual machines, system configuration, and troubleshooting in a controlled environment to better understand how real-world infrastructure operates.
 * Security+ Notes: https://github.com/vaniersfrancis/security-plus-notes
 * Telegram Trading Bot (Node.js, ethers, Telegram API)
 
