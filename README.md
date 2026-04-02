@@ -1,50 +1,61 @@
-Hi, I’m Vanier
+<h1 align="center">Vanier Francis</h1>
+<h3 align="center">Aspiring IT & Cybersecurity Professional</h3>
 
-IT Support Specialist with Tier 2 experience, focused on systems, networking, and real-world problem solving.
+---
 
-I’ve built hands-on projects including a trading automation bot using Node.js and APIs, and I’m currently developing a homelab to strengthen my skills in system configuration, networking, and troubleshooting.
+## About Me
 
-Currently working toward CompTIA Security+ (SY0-701) while continuing to build practical experience in backend systems and infrastructure.
+- Transitioning into IT and Cybersecurity  
+- Currently studying for CompTIA Security+ (SY0-701)  
+- Building hands-on projects in automation, networking, and system operations  
+- Focused on real-world skills and practical experience  
+- Goal: Secure a role in IT or Cybersecurity  
 
-Location: Florida
+---
+
+## Tech & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,linux,git,github,vscode" />
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaniersfrancis&show_icons=true&theme=default" />
+  <img src="https://streak-stats.demolab.com?user=vaniersfrancis&theme=default" />
+</p>
+
+---
+
+## Featured Project
+
+### Telegram Trading Bot
+
+- Built with Node.js, Telegraf, and ethers  
+- Designed for fast manual execution and reliability  
+- Custom fee control and RPC handling  
+- Real-time status tracking and PnL monitoring  
+
+Note: Private project focused on performance and execution  
 
 ---
 
 ## Current Focus
 
-* Core IT and networking fundamentals
-* System and security concepts
-* Studying for CompTIA Security+ (SY0-701)
-* Hands-on labs and real-world projects
-* Exploring different areas within tech
+- Network security fundamentals  
+- Security controls and risk management  
+- Linux and system administration  
+- Building and documenting a homelab environment  
 
 ---
 
-## Projects and Learning
+## Mindset
 
-* Currently, I am building a personal homelab environment to gain hands-on experience with systems, networking, and security concepts. This includes working with virtual machines, system configuration, and troubleshooting in a controlled environment to better understand how real-world infrastructure operates.
-* Security+ Notes: https://github.com/vaniersfrancis/security-plus-notes
-* Telegram Trading Bot (Node.js, ethers, Telegram API)
+No days off.
 
-  * Built a Telegram-based trading bot for executing on-chain transactions
-  * Implemented buy/sell logic, fee presets, and RPC handling
-
----
-
-## Technical Skills
-
-* JavaScript (Node.js)
-* APIs and JSON
-* Git and GitHub
-* Networking and system fundamentals
-
----
-
-## Goals
-
-- Secure a technical role where I can apply and expand my skills  
-- Continue building real-world experience through projects and labs  
-- Progress into more advanced roles in IT, cloud, or security  
 
 
 
