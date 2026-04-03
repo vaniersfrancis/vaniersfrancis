@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Vanier%20Francis&fontAlign=50&fontAlignY=35&color=0:0f172a,100:22c55e&fontColor=ffffff&desc=Aspiring%20IT%20%26%20Cybersecurity%20Professional&descAlign=50&descAlignY=55" />
+</p>
 <h1 align="center">Vanier Francis</h1>
 <h3 align="center">Aspiring IT & Cybersecurity Professional</h3>
 
