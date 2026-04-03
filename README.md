@@ -1,5 +1,5 @@
 <h1 align="center">Vanier Francis</h1>
-<h3 align="center">Aspiring IT & Cybersecurity Professional</h3>
+<h3 align="center">Aspiring Cybersecurity Professional</h3>
 
 ---
 
