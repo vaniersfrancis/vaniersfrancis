@@ -5,11 +5,22 @@
 
 ## About Me
 
-- Transitioning into IT and Cybersecurity  
-- Currently studying for CompTIA Security+ (SY0-701)  
-- Building hands-on projects in automation, networking, and system operations  
-- Focused on real-world skills and practical experience  
-- Goal: Secure a role in IT or Cybersecurity  
+Aspiring Cybersecurity Professional
+
+Hands-on experience building real-world systems and lab environments.
+
+Currently focused on:
+- Linux system administration
+- Virtualization and homelab environments
+- CompTIA Security+ (SY0-701)
+
+Projects include:
+- Telegram trading bot built with Node.js and ethers.js
+- Personal homelab with Ubuntu virtual machines
+- Security+ study notes and concepts
+
+Goal:
+Develop practical cybersecurity and system-level skills through real-world application and continuous learning.
 
 ---
 
