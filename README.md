@@ -9,10 +9,10 @@ Aspiring Cybersecurity Professional
 
 Hands-on experience building real-world systems and lab environments.
 
-Currently focused on:
-- Linux system administration
-- Virtualization and homelab environments
-- CompTIA Security+ (SY0-701)
+## 🔐 Current Focus
+- Building a cybersecurity homelab
+- Practicing Linux system administration
+- Studying for CompTIA Security+ (SY0-701)
 
 Projects include:
 - Telegram trading bot built with Node.js and ethers.js
