@@ -31,6 +31,9 @@ Hands-on cybersecurity lab environment built using VirtualBox and Ubuntu to simu
 - Access restriction and user isolation
 - Linux-based security fundamentals
 
+### 📸 Example Lab Output
+![System Monitor](https://raw.githubusercontent.com/vaniersfrancis/homelab-security-journey/main/projects/system-monitor-lab/screenshots/htop.png)
+
 👉 https://github.com/vaniersfrancis/homelab-security-journey
 
 ---
