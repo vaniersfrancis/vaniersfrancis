@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Vanier
 
-Aspiring Cybersecurity Professional focused on building hands-on experience in Linux, systems, and security.
+Cybersecurity-focused IT professional building hands-on experience in Linux, systems, and security through practical lab environments.
 
 ---
 
