@@ -9,7 +9,7 @@ Aspiring Cybersecurity Professional
 
 Hands-on experience building real-world systems and lab environments.
 
-## 🔐 Current Focus
+## Current Focus
 - Building a cybersecurity homelab
 - Practicing Linux system administration
 - Studying for CompTIA Security+ (SY0-701)
