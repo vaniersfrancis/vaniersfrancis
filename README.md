@@ -20,11 +20,16 @@ Aspiring Cybersecurity Professional focused on building hands-on experience in L
 ## 🧪 Featured Project
 
 ### Cybersecurity Homelab
-Hands-on lab environment built using VirtualBox and Ubuntu to practice real-world security concepts.
+Hands-on cybersecurity lab environment built using VirtualBox and Ubuntu to simulate real-world system administration and security scenarios.
 
 **Labs Completed:**
 - System Monitoring (htop, ps, kill)
 - File Permissions & Access Control
+
+**Focus Areas:**
+- Process visibility and control
+- Access restriction and user isolation
+- Linux-based security fundamentals
 
 👉 https://github.com/vaniersfrancis/homelab-security-journey
 
