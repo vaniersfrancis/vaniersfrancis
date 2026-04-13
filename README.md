@@ -5,14 +5,14 @@
 
 # 👋 Hi, I'm Vanier
 
-Cybersecurity-focused IT professional building hands-on experience in Linux, systems, and security through practical lab environments.
+Cybersecurity-focused IT professional building hands-on experience in Linux, systems, and security through practical lab environments and real-world simulations.
 
 ---
 
 ## 🔐 Current Focus
 - Building a cybersecurity homelab
-- Practicing Linux system administration
-- Learning process monitoring and access control
+- SIEM and log analysis using Splunk
+- Detection and incident investigation
 - Studying for CompTIA Security+ (SY0-701)
 
 ---
@@ -25,11 +25,16 @@ Hands-on cybersecurity lab environment built using VirtualBox and Ubuntu to simu
 **Labs Completed:**
 - System Monitoring (htop, ps, kill)
 - File Permissions & Access Control
+- Authentication Log Analysis (`/var/log/auth.log`)
+- Incident Investigation (user sessions, sudo activity, process review)
+- Splunk SIEM Lab (log ingestion, detection, alerts, dashboards)
 
 **Focus Areas:**
 - Process visibility and control
 - Access restriction and user isolation
-- Linux-based security fundamentals
+- Log analysis and user activity tracking
+- Detection of suspicious behavior and failed login attempts
+- SIEM-based monitoring and alerting
 
 ### 📸 Example Lab Output
 ![System Monitor](https://raw.githubusercontent.com/vaniersfrancis/homelab-security-journey/main/projects/system-monitor-lab/screenshots/htop.png)
@@ -40,15 +45,17 @@ Hands-on cybersecurity lab environment built using VirtualBox and Ubuntu to simu
 
 ## 🧰 Tools & Technologies
 - Linux (Ubuntu)
+- Splunk (SIEM, alerts, dashboards)
 - VirtualBox
 - Git & GitHub
 - Command Line (CLI)
+- Networking fundamentals
 - CompTIA Security+ (In Progress)
 
 ---
 
 ## 🚀 Goal
-To transition into an IT / Cybersecurity role by building real-world skills and hands-on experience.
+To transition into an IT / Cybersecurity role with a focus on system administration, security monitoring, and SOC analysis.
 
 
 
